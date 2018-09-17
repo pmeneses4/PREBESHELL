@@ -1,16 +1,14 @@
 clear
 	echo -E '.'
-	echo -E '├── prebeshell.sh'
 	echo -E '├── scripts'
-	echo -E '│   ├── aahorcado.sh'
-	echo -E '│   ├── aarbol.sh'
-	echo -E '│   ├── aayuda.sh'
-	echo -E '│   ├── abuscar.sh'
-	echo -E '│   ├── acreditos.sh'
-	echo -E '│   ├── ainfosis.sh'
-	echo -E '│   ├── arb_completo.sh'
-	echo -E '│   ├── arb_juegos.sh'
-	echo -E '│   └── arb_scripts.sh'
+	echo -E '│   ├── prebeshell.sh'
+	echo -E '│   ├── arbol.sh'
+	echo -E '│   ├── ayuda.sh'
+	echo -E '│   ├── buscar.sh'
+	echo -E '│   ├── creditos.sh'
+	echo -E '│   ├── infosis.sh'
+	echo -E '│   ├── gato.sh'
+	echo -E '│   ├── piedra.sh'
 	echo -E '└── terminal'
 	echo -E '    ├── arbol.sh'
 	echo -E '    ├── ayuda.sh'
@@ -18,9 +16,9 @@ clear
 	echo -E '    ├── creditos.sh'
 	echo -E '    ├── infosis.sh'
 	echo -E '    ├── juegos'
-	echo -E '    │   ├── ahorcado.sh'
-	echo -E '    │   └── juego.sh'
+	echo -E '    │   ├── gato.sh'
+	echo -E '    │   └── piedra.sh'
 	echo -E '    └── prebeplayer.sh'
 	
-	echo -e "\n3 directorios, 18 archivos\n"
+	echo -e "\n2 directorios, 16 archivos\n"
 	
